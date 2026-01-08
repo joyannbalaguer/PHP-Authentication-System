@@ -1,0 +1,34 @@
+[
+    {
+        "fullname": "Joy Ann Anawen Guiriba Balaguer",
+        "email": "joyannbalaguer77777@gmail.com",
+        "password": "$2y$10$3ZAv.1L6bdV4OwOWl0o1XOrMZ2eLn7OD7FNf4vDK8cNV4dKfWH5j2",
+        "dob": "2018-02-07",
+        "address": "tokyo",
+        "gender": "Female"
+    },
+    {
+        "fullname": "Shakayaku",
+        "email": "shaki@gmail.com",
+        "password": "$2y$10$OobAf8selMLS3HISJyjZouO2W60ZZt1oK8XLK59LwfHNKkuiirsNq",
+        "dob": "2006-09-07",
+        "address": "Sabaody Archipelago",
+        "gender": "Female"
+    },
+    {
+        "fullname": "Casca",
+        "email": "casca@gmail.com",
+        "password": "$2y$10$eXF1KRdCFjGovUDfLy7JwuAKGJ3e\/I3zT\/q4UFubej50KYFQqCV.e",
+        "dob": "2000-12-02",
+        "address": "Falconia",
+        "gender": "Female"
+    },
+    {
+        "fullname": "Joy Ann Anawen Guiriba Balaguer",
+        "email": "joyannbalagueraas17@gmail.com",
+        "password": "$2y$10$xlGkKRFJA7cX3cwJsr2\/V.k2pXK3YIPYYK6CRK9U15hrwK5xEplde",
+        "dob": "2015-10-15",
+        "address": "chiba japan",
+        "gender": "Female"
+    }
+]
