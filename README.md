@@ -11,17 +11,20 @@ This project is a PHP-based authentication system that supports user registratio
 - Logout functionality
 - File-based user storage using JSON
 
-## Project Structure
-Login/
-├── login.php
-├── signup.php
-├── logout.php
-├── home.php
-├── style.css
-users.json (ignored in version control)
+## Goal
+Control who can access the system.
 
-markdown
-Copy code
+Sign up users
+
+Sign in users
+
+Validate credentials
+
+Maintain sessions
+
+Display user data after login
+
+➡️ This is identity validation.
 
 ## Requirements
 - PHP (XAMPP or equivalent local server)
